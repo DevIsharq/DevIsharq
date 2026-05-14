@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Ishaq Aliyu</h1>
-<h3 align="center">🚀 Web3 Builder | Web Developer | Blockchain Enthusiast | Cybersecurity & Ethical Hacking | Foundry Developer</h3>
+<h3 align="center">🚀 Web3 Builder | Web Developer | Blockchain Enthusiast | Cybersecurity & Ethical Hacking | Foundry/Solidity</h3>
 
 <!-- Smart GIF -->
 <p align="center">
