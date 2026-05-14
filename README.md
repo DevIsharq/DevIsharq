@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Ishaq Aliyu</h1>
-<h3 align="center">🚀 Web Developer | Blockchain Enthusiast | Cybersecurity & Ethical Hacking | Foundry Developer</h3>
+<h3 align="center">🚀 Web3 Builder | Web Developer | Blockchain Enthusiast | Cybersecurity & Ethical Hacking | Foundry Developer</h3>
 
 <!-- Smart GIF -->
 <p align="center">
@@ -64,6 +64,6 @@
 ## 📫 Connect With Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/ishaq-aliyu-27a388350?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/dGlobalIT"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
+  <a href="https://x.com/Devisharq"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
   <a href="mailto:devisharq@email.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
